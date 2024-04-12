@@ -1,6 +1,6 @@
 ## Thomas Beresford
 
-I am a passionate software engineer with a strong background in full-stack development, specializing in Python, JavaScript, and React."
+I am a passionate software engineer with a strong background in full-stack development, specializing in Python, JavaScript, and React.
 
 I have successfully delivered several web applications and contributed to open-source projects, demonstrating my ability to solve complex problems and deliver high-quality code.
 
