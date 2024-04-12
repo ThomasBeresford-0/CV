@@ -15,7 +15,7 @@ What excites me most about tech is the opportunity to constantly learn and adapt
 
 ## Work Experience
 
-## Junior Software Engineer, 08/2023 - Current
+## Junior Software Engineer, 08/2023 - 03/2024
 ## Makers Academy - London
 
 ● Mastered Python, JavaScript, HTML, React, Swift, Git, and Visual Studio Code,
