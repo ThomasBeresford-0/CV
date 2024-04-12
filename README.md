@@ -119,6 +119,14 @@ Moreover, my experience at Makers allowed me to apply my expertise in MongoDB, S
 
 In addition to my professional roles, I have continuously sought opportunities to expand my technical skill set. I actively contribute to open-source projects and participate in coding challenges to stay updated with the latest trends and best practices in software development. My commitment to continuous learning and growth enables me to adapt to evolving technologies and tackle complex challenges with confidence and expertise.
 
+## Testing Skills
+
+I possess the required technical skills to excel in creating and maintaining tests in JavaScript/Playwright. My proficiency in JavaScript and experience with testing frameworks make me adept at writing robust and efficient test scripts to ensure the reliability and functionality of web applications.
+
+Furthermore, my understanding of HTML and CSS allows me to navigate and interact effectively with web elements, facilitating the creation of comprehensive test scenarios. I can leverage my knowledge of HTML and CSS to accurately identify and manipulate elements during testing, ensuring thorough coverage and accurate validation of application behavior.
+
+Additionally, I am skilled in utilizing Chrome DevTools to debug and reproduce failures efficiently. My experience in using DevTools enables me to analyze and troubleshoot issues effectively, pinpointing the root cause of failures and implementing appropriate fixes to enhance application performance and reliability.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Education
