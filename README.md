@@ -131,7 +131,7 @@ University of Chester
 
 ## Hobbies
 
-● Music Production: In my free                    
+● Music Production: In my free
 time, I am deeply passionate
 about exploring music
 production using FL Studio. I
