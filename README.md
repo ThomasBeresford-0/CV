@@ -19,26 +19,26 @@ What excites me most about tech is the opportunity to constantly learn and adapt
 ## Junior Software Engineer, 08/2023 - 03/2024
 ## Makers Academy - London
 
-> Mastered Python, JavaScript, HTML, React, Swift, Git, and Visual Studio Code,
+● Mastered Python, JavaScript, HTML, React, Swift, Git, and Visual Studio Code,
 equipping myself with the tools necessary for excelling in modern software
 development.
 
-> Devised test cases to support enhancements and expansions of functionality,
+● Devised test cases to support enhancements and expansions of functionality,
 ensuring the robustness and reliability of software systems.
 
-> Applied my expertise in MongoDB, SQL, and Node.js to develop database
+● Applied my expertise in MongoDB, SQL, and Node.js to develop database
 solutions and backend services.
 
-> Leveraged my knowledge of Swift and Xcode to create innovative iOS
+● Leveraged my knowledge of Swift and Xcode to create innovative iOS
 applications.
 
-> Contributed to DevOps practices, utilizing tools such as Postman for API
+● Contributed to DevOps practices, utilizing tools such as Postman for API
 testing and Docker for containerization.
 
-> Utilized React for frontend development, crafting intuitive and visually
+● Utilized React for frontend development, crafting intuitive and visually
 appealing user interfaces.
 
-> Employed SQL for database management and optimization, ensuring
+● Employed SQL for database management and optimization, ensuring
 efficient data storage and retrieval.
 
 ---------------------------------------------------------------------------------
@@ -46,34 +46,34 @@ efficient data storage and retrieval.
 ## Founder/Manager, 05/2020 - 06/2023
 ## Even Cavemen
 
-> Created and managed an online business specialising in pop culture clothing,
+● Created and managed an online business specialising in pop culture clothing,
 mugs, and other items
 
-> Developed a website for the business using modern web development
+● Developed a website for the business using modern web development
 techniques
 
-> Handcrafted products using screen printing techniques for t-shirts and
+● Handcrafted products using screen printing techniques for t-shirts and
 sublimation for mugs
 
-> Managed inventory, sales, and customer service
+● Managed inventory, sales, and customer service
 
-> Developed and implemented marketing strategies to attract customers.
+● Developed and implemented marketing strategies to attract customers.
 
 -----------------------------------------------------------------------------------
 ## QA Tester, 04/2018 - 03/2020
 ## Gaming Laboratories International GLI - Bangor, Wales
 
-> Developed an understanding of technical requirements/regulations
+● Developed an understanding of technical requirements/regulations
 Developed an understanding of client's expectations and additional testing
 requests
 
-> Researched, identified, and applied any special rules or ● other requirements
+● Researched, identified, and applied any special rules or ● other requirements
 Accurately developed and executed test methods for technical and client
 requirements
 
-> Effectively documented test results and discovered defects
+● Effectively documented test results and discovered defects
 
-> Managed projects and tasks against budgets and timelines.
+● Managed projects and tasks against budgets and timelines.
 
 -----------------------------------------------------------------------------------
 ## Skills
